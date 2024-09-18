@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(236, 233, 233);
+    font-family: "Montserrat" , sans-serif;
+    margin: 0,2%,0,2%;
+}
+
+.center{
+    text-align: center;
+
+}
+
+.macaco{
+    border: 2px solid black;
+    margin-left: 38%;
+    margin-right: 38%;
+}
+
+.macaco2{
+    border: 2px solid black;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+.ogro{
+    font-size: 34px;
+    margin-top: 10%;
+}
+
+p{
+    text-indent: 1.5rem;
+}
+
+.macaco3{
+    font-size: 24px ;
+    margin-top: 10%;
+    font-weight: 600;
+}
+
+.wikipedia{
+    background-color: white;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+
+.ogro2{
+    border-left: 1px solid;
+    border-right: 1px solid;
+    border-bottom: 1px solid;
+    margin-right: 60rem;
+}
+
+.ogromacaco4{
+    border-bottom: 1px solid;
+    border-top: 1px solid;
+    background-color: rgb(10,181,248);
+    text-align: center;
+    font-size: 34px;
+}
